@@ -48,3 +48,6 @@ I hope you like eExplorer - you can [request features and report issues](https:/
 #### Contributing
 
 [Pull requests](http://help.github.com/send-pull-requests) are welcome.
+
+<a href="http://with-eclipse.github.io/" target="_blank">
+<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
